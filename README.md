@@ -1,5 +1,5 @@
 # Mineria-De-Datos
-#Fase-1
+# Fase-1
 
 [Mapa Mental 1](https://github.com/LuisAngelRuiz/Mineria-De-Datos/blob/main/MapaMental_1_1862717.pdf)
 

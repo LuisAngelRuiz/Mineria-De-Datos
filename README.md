@@ -8,3 +8,10 @@
 [Practica limpieza de datos](https://github.com/marioalb127/MinDat2021/blob/main/Ej_Limpieza_Equipo3.ipynb)
 
 [Actividad Ejercicios Basicos de Python](https://github.com/LuisAngelRuiz/Mineria-De-Datos/blob/main/Ej_Python_1862717.ipynb) 
+
+#fase-2
+
+[Rwgresion Lineal Equipo3] (https://github.com/marioalb127/MinDat2021/blob/main/Presentaci%C3%B3n_Regresi%C3%B3n-Lineal_Equipo-3.pdf)
+
+[Ejemplo Regresion Lineal] (https://github.com/marioalb127/MinDat2021/blob/main/Ejemplo_Regresi%C3%B3n-Lineal_Equipo-3.ipynb)
+

@@ -11,7 +11,7 @@
 
 #fase-2
 
-[Rwgresion Lineal Equipo3] (https://github.com/marioalb127/MinDat2021/blob/main/Presentaci%C3%B3n_Regresi%C3%B3n-Lineal_Equipo-3.pdf)
+[Regresion Lineal Equipo3](https://github.com/marioalb127/MinDat2021/blob/main/Presentaci%C3%B3n_Regresi%C3%B3n-Lineal_Equipo-3.pdf)
 
-[Ejemplo Regresion Lineal] (https://github.com/marioalb127/MinDat2021/blob/main/Ejemplo_Regresi%C3%B3n-Lineal_Equipo-3.ipynb)
+[Ejemplo Regresion Lineal](https://github.com/marioalb127/MinDat2021/blob/main/Ejemplo_Regresi%C3%B3n-Lineal_Equipo-3.ipynb)
 

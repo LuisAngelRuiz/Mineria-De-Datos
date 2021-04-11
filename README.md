@@ -18,3 +18,11 @@
 [Ejemplo Regresion Lineal](https://github.com/marioalb127/MinDat2021/blob/main/Ejemplo_Regresi%C3%B3n-Lineal_Equipo-3.ipynb)
 
 [Calificaciones Regresion Lineal](https://github.com/marioalb127/MinDat2021/blob/main/Calificaciones_Regresi%C3%B3n-Lineal_Equipo-3.pdf)
+
+[Mapa Mental 2](https://github.com/LuisAngelRuiz/Mineria-De-Datos/blob/main/MapaMental_2_1862717.pdf)
+
+[Practica II Visualizacion De Datos](https://github.com/marioalb127/MinDat2021/blob/main/Visualizaci%C3%B3n_Equipo3.ipynb)
+
+[Segundo Avance del PIA](https://github.com/marioalb127/MinDat2021/blob/main/AvancePIA_II_G003_E3.ipynb)
+
+

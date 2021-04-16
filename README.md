@@ -23,6 +23,6 @@
 
 [Practica II Visualizacion De Datos](https://github.com/marioalb127/MinDat2021/blob/main/Visualizaci%C3%B3n_Equipo3.ipynb)
 
-[Segundo Avance del PIA](https://github.com/marioalb127/MinDat2021/blob/main/AvancePIA_II_G003_E3.ipynb)
+[Segundo Avance del PIA](https://github.com/marioalb127/MinDat2021/blob/main/AvancePIA_II_003_E03.ipynb?fbclid=IwAR0pPdxAqmUmA-iDvquZncHScKG_vqvrb2oiU_J6CUWo1Jc5IkizEDLSCG4)
 
 

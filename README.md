@@ -25,4 +25,13 @@
 
 [Segundo Avance del PIA](https://github.com/marioalb127/MinDat2021/blob/main/AvancePIA_II_003_E03.ipynb?fbclid=IwAR0pPdxAqmUmA-iDvquZncHScKG_vqvrb2oiU_J6CUWo1Jc5IkizEDLSCG4)
 
+# Fase-3
+
+[Avance del poster](https://github.com/marioalb127/MinDat2021/blob/main/AvancePoster_G003_E03.pdf) 
+
+[PIA](https://github.com/marioalb127/MinDat2021/blob/main/PIA_G003_E03.ipynb)
+
+[Poster](https://github.com/marioalb127/MinDat2021/blob/main/Poster_G003_E03.pdf)
+
+
 
